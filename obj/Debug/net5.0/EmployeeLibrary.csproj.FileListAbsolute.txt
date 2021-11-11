@@ -1,0 +1,12 @@
+C:\Users\Sree\Desktop\.NET Training\EmployeeLibrary\bin\Debug\net5.0\EmployeeLibrary.deps.json
+C:\Users\Sree\Desktop\.NET Training\EmployeeLibrary\bin\Debug\net5.0\EmployeeLibrary.dll
+C:\Users\Sree\Desktop\.NET Training\EmployeeLibrary\bin\Debug\net5.0\ref\EmployeeLibrary.dll
+C:\Users\Sree\Desktop\.NET Training\EmployeeLibrary\bin\Debug\net5.0\EmployeeLibrary.pdb
+C:\Users\Sree\Desktop\.NET Training\EmployeeLibrary\obj\Debug\net5.0\EmployeeLibrary.csproj.AssemblyReference.cache
+C:\Users\Sree\Desktop\.NET Training\EmployeeLibrary\obj\Debug\net5.0\EmployeeLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Sree\Desktop\.NET Training\EmployeeLibrary\obj\Debug\net5.0\EmployeeLibrary.AssemblyInfoInputs.cache
+C:\Users\Sree\Desktop\.NET Training\EmployeeLibrary\obj\Debug\net5.0\EmployeeLibrary.AssemblyInfo.cs
+C:\Users\Sree\Desktop\.NET Training\EmployeeLibrary\obj\Debug\net5.0\EmployeeLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Sree\Desktop\.NET Training\EmployeeLibrary\obj\Debug\net5.0\EmployeeLibrary.dll
+C:\Users\Sree\Desktop\.NET Training\EmployeeLibrary\obj\Debug\net5.0\ref\EmployeeLibrary.dll
+C:\Users\Sree\Desktop\.NET Training\EmployeeLibrary\obj\Debug\net5.0\EmployeeLibrary.pdb
